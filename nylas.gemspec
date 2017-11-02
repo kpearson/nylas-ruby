@@ -12,7 +12,7 @@ require 'bundler'
 require './lib/version.rb'
 
 Gem::Specification.new do |gem|
-  gem.name = 'nylas'
+  gem.name = 'nnylas'
   gem.homepage = 'http://github.com/nylas/nylas-ruby'
   gem.license = 'MIT'
   gem.summary = %Q{Gem for interacting with the Nylas API}
